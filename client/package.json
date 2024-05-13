@@ -2,6 +2,7 @@
   "name": "client",
   "version": "0.1.0",
   "private": true,
+  "proxy":"https://netflix-clone-backend-nu.vercel.app/",
   "dependencies": {
     "@chakra-ui/react": "^2.5.1",
     "@emotion/react": "^11.10.6",
